@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+🔭 I’m currently working on a browser project in python
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on chatGPT 3.5 Turbo.
+- 🤔 I’m looking for help with Using a simple browser libary in python.
+-  💬 Ask me about anything.
 <!--
 **Ispendedfourm/Ispendedfourm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
